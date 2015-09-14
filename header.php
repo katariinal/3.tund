@@ -1,7 +1,7 @@
 <html>
     
     <head>
-        <title>Siia tuleb nimi</title>
+        <title><?php echo $page_title; ?></title>
     </head>
     <body>
     <?php
